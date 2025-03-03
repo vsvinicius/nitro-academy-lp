@@ -7,10 +7,41 @@ const geistSans = localFont({
   variable: "--font-geist-sans",
   weight: "100 900",
 });
+
 const geistMono = localFont({
   src: "./fonts/GeistMonoVF.woff",
   variable: "--font-geist-mono",
   weight: "100 900",
+});
+
+const gilroyExtrabold = localFont({
+  src: "./fonts/Gilroy-Extrabold.ttf",
+  variable: "--font-gilroy-extrabold",
+});
+
+const helveticaNeue = localFont({
+  src: "./fonts/HelveticaNeueLTStd-MdCn.otf",
+  variable: "--font-helvetica",
+});
+
+const montserratBlack = localFont({
+  src: "./fonts/Montserrat-Black.otf",
+  variable: "--font-montserrat-black",
+});
+
+const montserratLight = localFont({
+  src: "./fonts/Montserrat-Light.otf",
+  variable: "--font-montserrat-light",
+});
+
+const montserratRegular = localFont({
+  src: "./fonts/Montserrat-Regular.otf",
+  variable: "--font-montserrat-regular",
+});
+
+const gilroyLight = localFont({
+  src: "./fonts/Gilroy-Light.otf",
+  variable: "--fonts-gilroy-light",
 });
 
 export const metadata: Metadata = {
@@ -26,7 +57,17 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`
+          ${geistSans.variable} 
+          ${geistMono.variable} 
+          ${gilroyExtrabold.variable} 
+          ${helveticaNeue.variable} 
+          ${montserratBlack.variable} 
+          ${montserratLight.variable}
+          ${montserratRegular.variable}
+
+          ${gilroyLight.variable}
+          antialiased`}
       >
         {children}
       </body>
