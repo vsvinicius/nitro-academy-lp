@@ -53,7 +53,8 @@ export default function RootLayout({
           ${montserratRegular.variable}
 
           ${gilroyLight.variable}
-          antialiased`}
+          antialiased
+          tracking-wider`}
       >
         {children}
       </body>
