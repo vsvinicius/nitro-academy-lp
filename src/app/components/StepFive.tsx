@@ -12,8 +12,12 @@ export default function StepFive() {
           className="h-10 w-10"
         />
         <p className="font-montserrat-regular text-[1.6rem] pt-6">
-          Com temas que vão de astrobiologia a empreendedorismo, desenvolvemos
-          habilidades como resolução de problemas e trabalho em equipe.
+          Com temas que vão de astrobiologia a empreendedorismo,{" "}
+          <strong className="font-montserrat-black">
+            desenvolvemos habilidades como resolução de problemas{" "}
+          </strong>{" "}
+          e{" "}
+          <strong className="font-montserrat-black">trabalho em equipe.</strong>
         </p>
         <p className="font-montserrat-regular text-[1.6rem] pt-6">
           Aqui, cada semestre é uma nova jornada de descobertas!
