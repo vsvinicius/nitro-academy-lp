@@ -1,10 +1,12 @@
-import StepOne from "@/components/StepOne";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
-import StepFour from "@/components/StepFour";
+
+import StepOne from "@/components/StepOne";
 import StepTwo from "@/components/StepTwo";
-import StepFive from "@/components/StepFive";
 import StepThree from "@/components/StepThree";
+import StepFour from "@/components/StepFour";
+import StepFive from "@/components/StepFive";
+import StepSeven from "@/components/StepSeven";
 
 export default function Home() {
   return (
@@ -21,9 +23,9 @@ export default function Home() {
       <StepThree />
       <StepFour />
       <StepFive />
+      <StepSeven />
       {/* 
       <StepSix />
-      <StepSeven />
       <StepEight />
       <StepNine />
       <StepTen /> 
