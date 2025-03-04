@@ -8,6 +8,7 @@ export default function StepFour() {
         alt="Criança digitando no notebook"
         width={300}
         height={300}
+        priority={true}
         className="absolute w-full h-full object-cover brightness-75"
       />
       <h1 className="relative font-montserrat-regular text-4xl font-bold px-12 py-20">
