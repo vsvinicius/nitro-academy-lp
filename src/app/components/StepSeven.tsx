@@ -1,8 +1,8 @@
-import Image from 'next/image';
+import Image from "next/image";
 
 export default function StepSeven() {
   return (
-    <div className="relative -top-4 h-[50rem] flex justify-center items-center">
+    <div className="relative -top-20 h-[50rem] flex justify-center items-center">
       <Image
         src="adolescente-menina.png"
         alt="Adolescente menina digitando no notebook"
@@ -15,5 +15,5 @@ export default function StepSeven() {
         Não ensinamos para provas, ensinamos para a vida
       </h1>
     </div>
-  )
+  );
 }

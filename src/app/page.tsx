@@ -7,6 +7,7 @@ import StepThree from "@/components/StepThree";
 import StepFour from "@/components/StepFour";
 import StepFive from "@/components/StepFive";
 import StepSeven from "@/components/StepSeven";
+import StepSix from "@/components/StepSix";
 
 export default function Home() {
   return (
@@ -23,9 +24,9 @@ export default function Home() {
       <StepThree />
       <StepFour />
       <StepFive />
+      <StepSix />
       <StepSeven />
       {/* 
-      <StepSix />
       <StepEight />
       <StepNine />
       <StepTen /> 
