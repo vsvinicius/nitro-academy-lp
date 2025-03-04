@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className="h-96 w-full">
       <div className="px-4 pt-8 flex flex-col items-center">
-        <Image src="logo-frase-azul.png" alt="logo nitro academy com frase" width={330} height={91} />
+        <Image src="logo-frase-azul.png" alt="logo nitro academy com frase" width={330} height={91} className="w-80 h-24" />
         <hr className="border-[#562637] bg-[#562637] w-[20rem] h-[0.05rem] mt-4" />
         <p className="font-montserrat-regular text-xs p-4 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
         <div className="flex gap-4 items-center justify-center mt-6">

@@ -6,6 +6,7 @@ function StepOne() {
       <Image
         src="adolescente-menino.png"
         alt="Adolescente usando o computador"
+        priority={true}
         width={540}
         height={540}
         className="absolute w-full h-full object-cover brightness-75"
