@@ -2,8 +2,8 @@ import StepOne from "@/components/StepOne";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import StepFour from "@/components/StepFour";
-import StepTwo from "./components/StepTwo";
-import StepFive from "./components/StepFive";
+import StepTwo from "@/components/StepTwo";
+import StepFive from "@/components/StepFive";
 
 export default function Home() {
   return (
