@@ -9,8 +9,8 @@ export default function Footer() {
         <p className="font-montserrat-regular text-xs p-4 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
         <div className="flex gap-4 items-center justify-center mt-6">
           <Image src="instagram.svg" alt="link para conta do instagram" width={30} height={30} />
-          <Image src="facebook.svg" alt="link para conta do instagram" width={30} height={30} />
-          <Image src="youtube.svg" alt="link para conta do instagram" width={30} height={30} />
+          <Image src="facebook.svg" alt="link para conta do facebook" width={30} height={30} />
+          <Image src="youtube.svg" alt="link para canal do youtube" width={30} height={30} />
         </div>
       </div>
     </div>
