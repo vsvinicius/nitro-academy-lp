@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import StepFour from "@/components/StepFour";
 import StepTwo from "./components/StepTwo";
+import StepFive from "./components/StepFive";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <StepOne />
       <StepTwo />
       <StepFour />
+      <StepFive />
       <Footer />
     </>
   );
