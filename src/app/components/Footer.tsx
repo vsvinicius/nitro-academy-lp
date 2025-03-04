@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Footer() {
   return (
-    <div className="h-96 w-full absolute bottom-0">
+    <div className="h-96 w-full">
       <div className="px-4 pt-8 flex flex-col items-center">
         <Image src="logo-frase-azul.png" alt="logo nitro academy com frase" width={330} height={91} />
         <hr className="border-[#562637] bg-[#562637] w-[20rem] h-[0.05rem] mt-4" />
