@@ -11,7 +11,7 @@ export default function StepTwo() {
           height={65}
           className="h-10 w-10"
         />
-        <p className="font-montserrat-regular text-left text-[1.5rem] pt-3">
+        <p className="font-montserrat-regular text-left text-[1.5rem] pt-6">
           A Nitro Academy é uma escola online para alunos de 11 a 17 anos que
           desejam aprender além da escola tradicional.
         </p>
