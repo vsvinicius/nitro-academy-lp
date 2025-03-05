@@ -11,7 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
-        'theme-orange': '#f54a12'
+        'theme-orange': '#f54a12',
+        'blue-light': '#599fe9',
       },
       fontFamily: {
         "gilroy-extrabold": "var(--font-gilroy-extrabold)",
