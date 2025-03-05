@@ -13,6 +13,7 @@ import StepNine from "@/components/StepNine";
 import StepTen from "@/components/StepTen";
 import StepEleven from "@/components/StepEleven";
 import StepTwelve from "@/components/StepTwelve";
+import StepThirteen from "@/components/StepThirteen";
 
 export default function Home() {
   return (
@@ -36,9 +37,7 @@ export default function Home() {
       <StepTen />
       <StepEleven />
       <StepTwelve />
-      {/* 
-      <StepThirteen /> 
-      */}
+      <StepThirteen />
       <Footer />
     </>
   );
