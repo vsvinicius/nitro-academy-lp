@@ -7,7 +7,7 @@ const listItems = [
 
 export default function StepTen() {
   return (
-    <div className="relative -top-24 px-9 bg-theme-orange py-20 text-background">
+    <div className="relative -top-8 px-9 bg-theme-orange py-20 text-background">
       <h1 className="font-gilroy-extrabold text-6xl">
         Como funciona?
       </h1>

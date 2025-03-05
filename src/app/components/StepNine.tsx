@@ -63,7 +63,7 @@ const content: ContentItem[] = [
 
 export default function StepNine() {
   return (
-    <div className="relative -top-20 bg-blue-light rounded-2xl px-12 py-16 flex flex-col gap-10 z-10">
+    <div className="relative bg-blue-light rounded-2xl px-12 py-16 flex flex-col gap-10 z-10">
       {
         content.map(({ label, description }) => (
           <div key={label.title}>

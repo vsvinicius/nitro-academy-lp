@@ -1,6 +1,6 @@
 export default function StepSix() {
   return (
-    <div className="h-[46rem] rounded-2xl z-10 -top-10 relative bg-background pt-20 px-12">
+    <div className="rounded-2xl z-10 -top-10 relative bg-background pt-20 px-12 pb-12">
       <p className="font-helvetica text-[3rem] pt-6 text-theme-orange leading-[1.1]">
         Nossa abordagem é centrada no aluno.
       </p>

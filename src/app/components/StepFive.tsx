@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function StepFive() {
   return (
-    <div className="relative -top-4 bg-blue-light rounded-t-2xl h-[46rem] pt-4">
+    <div className="relative -top-4 bg-blue-light rounded-t-2xl pt-4 pb-20 w-full">
       <div className="px-12 h-[45rem] rounded-t-2xl pt-20">
         <Image
           src="logo-withoutbg.png"
