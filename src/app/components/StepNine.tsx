@@ -18,7 +18,7 @@ const content: ContentItem[] = [
       backgroundColor: 'bg-background',
     },
     description: {
-      text: 'Pagamento por matéria, horários adaptáveis e acesso nacional 9.'
+      text: 'Pagamento por matéria, horários adaptáveis e acesso nacional.'
     }
   },
   {
