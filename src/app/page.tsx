@@ -10,6 +10,7 @@ import StepSix from "@/components/StepSix";
 import StepSeven from "@/components/StepSeven";
 import StepEight from "@/components/StepEight";
 import StepNine from "@/components/StepNine";
+import StepTen from "@/components/StepTen";
 import StepEleven from "@/components/StepEleven";
 import StepTwelve from "@/components/StepTwelve";
 
@@ -32,11 +33,10 @@ export default function Home() {
       <StepSeven />
       <StepEight />
       <StepNine />
+      <StepTen />
       <StepEleven />
       <StepTwelve />
       {/* 
-      <StepTen /> 
-
       <StepThirteen /> 
       */}
       <Footer />
