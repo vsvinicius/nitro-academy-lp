@@ -12,7 +12,7 @@ const titles = [
 
 export default function StepEight() {
   return (
-    <div className="px-12 pb-12">
+    <div className="px-12 py-12">
       <h1 className="text-theme-orange font-gilroy-extrabold text-6xl pl-4 pr-6">
         Por que escolher a Nitro?
       </h1>

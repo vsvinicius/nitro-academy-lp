@@ -33,8 +33,10 @@ export default function Home() {
       <StepSix />
       <StepSeven />
       <StepEight />
-      <StepNine />
-      <StepTen />
+      <div className="bg-theme-orange">
+        <StepNine />
+        <StepTen />
+      </div>
       <StepEleven />
       <StepTwelve />
       <StepThirteen />

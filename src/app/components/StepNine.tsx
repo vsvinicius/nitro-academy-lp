@@ -63,11 +63,11 @@ const content: ContentItem[] = [
 
 export default function StepNine() {
   return (
-    <div className="relative bg-blue-light rounded-2xl px-12 py-16 flex flex-col gap-10 z-10">
+    <div className="bg-blue-light rounded-2xl px-12 py-16 flex flex-col gap-10 z-10 shadow-[0px_-12px_0px_0px_#19184b]">
       {
         content.map(({ label, description }) => (
           <div key={label.title}>
-            <div className={cn('text-center rounded-full bg-background w-fit py-1.5 pl-4 pr-12', label.backgroundColor, label.className)}>
+            <div className={cn('text-center rounded-full bg-background w-fit py-1.5 pl-4 pr-12 whitespace-nowrap', label.backgroundColor, label.className)}>
               <p className={cn('font-gilroy-extrabold text-xl', label.titleClassName)}>
                 {label.title}
               </p>

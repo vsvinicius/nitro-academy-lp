@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function StepFive() {
   return (
-    <div className="relative -top-4 bg-blue-light rounded-t-2xl pt-4 pb-20 w-full">
-      <div className="px-12 h-[45rem] rounded-t-2xl pt-20">
+    <div className="relative bg-blue-light rounded-t-2xl pt-6 pb-20 w-full shadow-[0px_-12px_0px_0px_#599fe9]">
+      <div className="px-12 h-[45rem] rounded-t-2xl">
         <Image
           src="logo-withoutbg.png"
           alt="Logo nitro"

@@ -1,6 +1,6 @@
 export default function StepThirteen() {
   return (
-    <div className="relative -top-24 px-9 bg-theme-orange py-16">
+    <div className="px-9 bg-theme-orange py-16">
       <h1 className="font-gilroy-regular font-bold text-4xl pr-20">
         Pronto para transformar tempo livre em talento?
       </h1>

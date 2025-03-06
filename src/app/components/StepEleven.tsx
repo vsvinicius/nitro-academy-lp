@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function StepEleven() {
   return (
-    <div className="h-[46rem] relative flex justify-center items-center -top-24">
+    <div className="h-[46rem] relative flex justify-center items-center">
       <Image
         src="crianca-menino.png"
         alt="Menino usando computador"

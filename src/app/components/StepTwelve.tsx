@@ -1,7 +1,7 @@
 export default function StepTwelve() {
   return (
-    <div className="h-[46rem] px-10 -top-5">
-      <p className="font-gilroy-light text-3xl pt-8">
+    <div className="px-10 py-10">
+      <p className="font-gilroy-light text-3xl">
         Na Nitro Academy exploramos, criamos e preparamos para o futuro.
       </p>
       <p className="font-gilroy-light text-3xl pt-12">
