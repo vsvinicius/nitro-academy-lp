@@ -12,7 +12,7 @@ export default function StepFour() {
         className="absolute w-full h-full object-cover brightness-75"
       />
       <h1 className="relative font-montserrat-regular text-4xl font-bold px-12 py-20">
-        Professores incríveis e metodologia baseada em projetos
+        Mentores incríveis e metodologia baseada em projetos
       </h1>
     </div>
   )

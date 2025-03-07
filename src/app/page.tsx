@@ -13,17 +13,12 @@ import StepNine from "@/components/StepNine";
 import StepTen from "@/components/StepTen";
 import StepEleven from "@/components/StepEleven";
 import StepTwelve from "@/components/StepTwelve";
-import StepThirteen from "@/components/StepThirteen";
+import Script from "next/script";
 
 export default function Home() {
   return (
-    <>
-      {/* <p className="font-gilroy-extrabold"> Transforme tempo livre </p>
-      <p className="font-gilroy-light">Transforme tempo livre</p>
-      <p className="font-montserrat-black">Transforme tempo livre</p>
-      <p className="font-helvetica"> Transforme tempo livre</p>
-      <p className="font-montserrat-light">Transforme tempo livre</p>
-      <p className="font-montserrat-regular">Transforme tempo livre</p> */}
+    <div className="overflow-x-hidden">
+      <Script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=14c243f1-7516-4bf0-bb6f-b40034ac1926" />
       <Header />
       <StepOne />
       <StepTwo />
@@ -39,8 +34,7 @@ export default function Home() {
       </div>
       <StepEleven />
       <StepTwelve />
-      <StepThirteen />
       <Footer />
-    </>
+    </div>
   );
 }

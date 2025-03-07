@@ -28,7 +28,7 @@ const content: ContentItem[] = [
       className: 'pr-8',
     },
     description: {
-      text: 'Aulas participativas e baseadas em projetos para habilidades como liderança e criatividade.'
+      text: 'Projetos estimulantes em áreas de interesse do aluno.'
     }
   },
   {
@@ -56,7 +56,7 @@ const content: ContentItem[] = [
       backgroundColor: 'bg-[#e69223]',
     },
     description: {
-      text: 'Mais de 10 matérias para explorar.'
+      text: 'Mais de 10 projetos para explorar.'
     },
   },
 ]

@@ -1,8 +1,8 @@
 const listItems = [
-  "Escolha suas matérias de interesse.",
-  "Defina os melhores dias e horários.",
-  "Participe de aulas ao vivo e projetos práticos.",
-  "Desenvolva habilidades essenciais para o futuro.",
+  "Se inscreva no processo seletivo. ",
+  "Participe de uma aula experimental.",
+  "Receba a grade de projetos e seus horários.",
+  "Escolha seu primeiro projeto e alavanque seu futuro.",
 ];
 
 export default function StepTen() {

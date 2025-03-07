@@ -11,14 +11,13 @@ export default function StepTwo() {
         className="h-10 w-12"
       />
       <p className="font-montserrat-regular text-left text-[1.5rem] pt-6">
-        A Nitro Academy é uma escola online para alunos de 11 a 17 anos que
-        desejam aprender além da escola tradicional.
+        A Nitro Academy é uma escola online de projetos de iniciação vocacional para adolescentes entre 11 a 15 anos através de projetos práticos e estimulantes orientados por mentores experientes.
       </p>
-      <p className="font-montserrat-regular text-[1.5rem] pt-6">
+      {/* <p className="font-montserrat-regular text-[1.5rem] pt-6">
         Com aulas dinâmicas, grupos pequenos, professores especialistas e uma
         abordagem baseada em projetos, nossos alunos desenvolvem criatividade,
         liderança, pensamento crítico e muito mais!
-      </p>
+      </p> */}
     </div>
   );
 }

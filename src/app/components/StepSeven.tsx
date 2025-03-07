@@ -12,7 +12,7 @@ export default function StepSeven() {
         className="absolute w-full h-full object-cover brightness-75"
       />
       <h1 className="relative font-montserrat-regular text-4xl font-bold pl-16 pr-20 py-20 top-20">
-        Não ensinamos para provas, ensinamos para a vida
+        Turmas pequenas, projetos divertidos e mentores que são referência.
       </h1>
     </div>
   );
