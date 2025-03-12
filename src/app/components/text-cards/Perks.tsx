@@ -1,4 +1,4 @@
-import { cn } from "../lib/cn";
+import { cn } from "../../lib/cn";
 type ContentItem = {
   label: {
     title: string;
@@ -61,7 +61,7 @@ const content: ContentItem[] = [
   },
 ]
 
-export default function StepNine() {
+export default function Perks() {
   return (
     <div className="bg-blue-light rounded-2xl px-12 py-16 flex flex-col gap-10 z-10 shadow-[0px_-12px_0px_0px_#19184b]">
       {

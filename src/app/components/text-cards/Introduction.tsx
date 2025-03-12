@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function StepTwo() {
+export default function Introduction() {
   return (
     <div className="px-12 bg-background rounded-t-2xl py-10 shadow-[0px_-12px_0px_0px_#599fe9] relative">
       <Image

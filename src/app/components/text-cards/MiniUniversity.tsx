@@ -1,6 +1,6 @@
 import Image from 'next/image';
 
-export default function StepThree() {
+export default function MiniUniversity() {
   return (
     <div className=" py-10 bg-theme-orange rounded-t-2xl  font-gilroy-light font-bold text-3xl">
       <p className=" font-montserrat-black text-4xl text-background text-center pb-14">

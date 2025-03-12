@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-function StepOne() {
+function TeenGuy() {
   return (
     <div className="relative h-[46rem] flex items-center justify-center">
       <Image
@@ -32,4 +32,4 @@ function StepOne() {
   );
 }
 
-export default StepOne;
+export default TeenGuy;

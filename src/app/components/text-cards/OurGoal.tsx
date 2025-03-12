@@ -1,4 +1,4 @@
-export default function StepTwelve() {
+export default function OurGoal() {
   return (
     <div className="px-10 py-10">
       <p className="font-gilroy-light text-3xl">
