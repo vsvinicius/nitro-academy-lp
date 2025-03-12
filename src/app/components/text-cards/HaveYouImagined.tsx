@@ -5,7 +5,7 @@ export default function HaveYouImagined() {
     <div className="relative bg-blue-light rounded-t-2xl pt-6 pb-20 w-full shadow-[0px_-12px_0px_0px_#599fe9]">
       <div className="px-12 rounded-t-2xl">
         <Image
-          src="logo-withoutbg.png"
+          src="logo-no-bg.png"
           alt="Logo nitro"
           width={64}
           height={64}

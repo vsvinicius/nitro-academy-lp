@@ -2,14 +2,14 @@ import Image from "next/image";
 
 export default function Parents() {
   return (
-    <div className="pb-8 h-[50rem] flex justify-center items-end">
+    <div className="h-[40rem] flex justify-center items-end">
       <Image
         src="parents.jpeg"
         alt="Pais olhando para filha adolescente"
         width={300}
         height={300}
         priority={true}
-        className="absolute w-full h-full object-cover brightness-[0.6]"
+        className="absolute w-full h-[40rem] object-cover brightness-[0.6]"
       />
       <h1 className="font-montserrat-regular font-bold z-10 text-xl px-10 pb-10 sm:text-3xl sm:px-28 sm:pb-20">
         &quot;Sabemos que a adolescência

@@ -16,6 +16,7 @@ import HowItWorks from "@/components/text-cards/HowItWorks";
 import ChildGuy from "@/components/image-cards/ChildGuy";
 import OurGoal from "@/components/text-cards/OurGoal";
 import Parents from "@/components/image-cards/Parents";
+import Faq from "@/components/Faq";
 
 export default function Home() {
   return (
@@ -37,6 +38,7 @@ export default function Home() {
       <ChildGuy />
       <OurGoal />
       <Parents />
+      <Faq />
       <Footer />
     </div>
   );
