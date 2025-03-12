@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function StepEleven() {
+export default function ChildGuy() {
   return (
     <div className="h-[46rem] relative flex justify-center items-center">
       <Image

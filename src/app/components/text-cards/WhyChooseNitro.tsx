@@ -10,7 +10,7 @@ const titles = [
   "Uso produtivo do tempo livre",
 ];
 
-export default function StepEight() {
+export default function WhyChooseNitro() {
   return (
     <div className="px-12 py-12">
       <h1 className="text-theme-orange font-gilroy-extrabold text-6xl pl-4 pr-6">

@@ -5,7 +5,7 @@ const listItems = [
   "Escolha seu primeiro projeto e alavanque seu futuro.",
 ];
 
-export default function StepTen() {
+export default function HowItWorks() {
   return (
     <div className="px-9 bg-theme-orange py-20 text-background">
       <h1 className="font-gilroy-extrabold text-6xl">
