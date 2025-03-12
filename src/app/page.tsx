@@ -14,6 +14,7 @@ import StepTen from "@/components/StepTen";
 import StepEleven from "@/components/StepEleven";
 import StepTwelve from "@/components/StepTwelve";
 import Script from "next/script";
+import Carousel from "@/components/Carousel";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Header />
       <StepOne />
       <StepTwo />
+      <Carousel />
       <StepThree />
       <StepFour />
       <StepFive />
