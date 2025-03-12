@@ -113,14 +113,14 @@ const cardsContent: CardProps[] = [
 
 export default function Carousel() {
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center bg-theme-orange py-10 shadow-[inset_0px_-12px_0px_0px_#19184b] rounded-b-2xl">
       <CdnCarousel opts={{
         align: "center",
         loop: true,
       }}
         className="w-[75%]"
       >
-        <CarouselContent className="text-center">
+        <CarouselContent>
           {
             cardsContent.map((props) => (
               <CarouselItem className="basis-full" key={props.title}>

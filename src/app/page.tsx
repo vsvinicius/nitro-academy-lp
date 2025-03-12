@@ -17,6 +17,7 @@ import ChildGuy from "@/components/image-cards/ChildGuy";
 import OurGoal from "@/components/text-cards/OurGoal";
 import Parents from "@/components/image-cards/Parents";
 import Faq from "@/components/Faq";
+import Carousel from "@/components/Carousel";
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
       <HaveYouImagined />
       <OurApproach />
       <TeenGirl />
+      <Carousel />
       <WhyChooseNitro />
       <div className="bg-theme-orange">
         <Perks />
