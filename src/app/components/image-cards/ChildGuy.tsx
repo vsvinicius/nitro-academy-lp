@@ -9,7 +9,7 @@ export default function ChildGuy() {
         width={300}
         height={300}
         priority={true}
-        className="h-full w-full absolute object-cover brightness-75"
+        className="h-[46rem] w-full absolute object-cover brightness-75"
       />
       <p className="font-montserrat-regular text-4xl relative pl-10 pr-32 pt-4">
         + Autonomia, criatividade e preparo para o futuro

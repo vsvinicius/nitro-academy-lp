@@ -44,7 +44,7 @@ const questions: FaqItem[] = [
 
 export default function Faq() {
   return (
-    <div className="bg-theme-orange py-20">
+    <div className="bg-theme-orange py-20 shadow-[inset_0px_-12px_0px_0px_#19184b] rounded-b-2xl">
       <p className="font-montserrat-black text-4xl text-background text-center pb-14">
         Dúvidas?
       </p>

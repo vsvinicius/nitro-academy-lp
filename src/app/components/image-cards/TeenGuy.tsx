@@ -9,7 +9,7 @@ function TeenGuy() {
         priority={true}
         width={540}
         height={540}
-        className="absolute w-full h-full object-cover brightness-75"
+        className="absolute w-full h-[46rem] object-cover brightness-75"
       />
       <div className="relative font-montserrat-regular font-bold leading-8">
         <div className="flex items-center">
