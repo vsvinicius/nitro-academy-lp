@@ -1,4 +1,5 @@
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
+// import { Button } from "@/components/ui/button";
 type FaqItem = {
   question: string;
   answer: string | React.ReactNode;
@@ -52,14 +53,17 @@ export default function Faq() {
         {
           questions.map(({ answer, question }) => (
             <AccordionItem value={`item-${question}`} className="border-none" key={question}>
-              <AccordionTrigger className="hover:no-underline font-sans font-bold">{question}</AccordionTrigger>
-              <AccordionContent>
+              <AccordionTrigger className="hover:no-underline font-sans font-bold text-lg">{question}</AccordionTrigger>
+              <AccordionContent className="text-lg">
                 {answer}
               </AccordionContent>
             </AccordionItem>
           ))
         }
       </Accordion>
+      {/* <div className="flex w-full items-center justify-center pt-14">
+        <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">Saiba mais</Button>
+      </div> */}
     </div>
   )
 }

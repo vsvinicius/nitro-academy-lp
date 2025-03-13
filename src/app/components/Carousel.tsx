@@ -113,7 +113,10 @@ const cardsContent: CardProps[] = [
 
 export default function Carousel() {
   return (
-    <div className="flex justify-center bg-theme-orange py-10 shadow-[inset_0px_-12px_0px_0px_#19184b] rounded-b-2xl">
+    <div className="flex flex-col items-center bg-theme-orange py-10 shadow-[inset_0px_-12px_0px_0px_#19184b] rounded-b-2xl">
+      <h1 className="font-gilroy-extrabold text-4xl py-10 sm:text-6xl">
+        Escolha um projeto
+      </h1>
       <CdnCarousel opts={{
         align: "center",
         loop: true,
