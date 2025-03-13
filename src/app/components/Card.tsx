@@ -57,7 +57,7 @@ export default function Card({ title, description, level, goal, homework, model,
     },
   ]
   return (
-    <div className="flex items-center justify-center flex-col p-10 gap-4 bg-[#EBEEEF] rounded-xl text-black">
+    <div className="flex items-center justify-center flex-col p-10 gap-4 bg-[#EBEEEF] opacity-90 rounded-xl text-black">
       <h1 className="font-gilroy-extrabold text-2xl py-3">{title}</h1>
       {sections.map(({ alt, content, image, title }) => (
         <section className='w-full' key={title}>
