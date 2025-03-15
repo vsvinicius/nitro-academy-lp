@@ -1,3 +1,4 @@
+import { setRequestLocale } from "next-intl/server";
 import Script from "next/script";
 
 import Footer from "@/components/Footer";
@@ -18,12 +19,9 @@ import OurGoal from "@/components/text-cards/OurGoal";
 import Parents from "@/components/image-cards/Parents";
 import Faq from "@/components/Faq";
 import Carousel from "@/components/Carousel";
-import { setRequestLocale } from "next-intl/server";
 
-export default async function Home({ params }: { params: { locale: string } }) {
-
+export default function Home({ params }: { params: { locale: string } }) {
   setRequestLocale(params.locale);
-
   return (
     <div className="overflow-x-hidden">
       <Script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=14c243f1-7516-4bf0-bb6f-b40034ac1926" />

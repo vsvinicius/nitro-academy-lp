@@ -1,6 +1,6 @@
-import { redirect } from "next/navigation";
-
+'use client';
+import { useRedirect } from "./hooks/useRedirect";
 
 export default function Page() {
-  redirect('/pt');
+  useRedirect();
 }
