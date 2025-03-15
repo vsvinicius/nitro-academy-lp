@@ -21,6 +21,7 @@
       "@/*": ["./src/*"],
       "@/app/*": ["./src/app/*"],
       "@/components/*": ["./src/app/components/*"],
+      "@/lib/*": ["./src/lib/*"],
       "@/i18n/*": ["./src/i18n/*"],
     }
   },

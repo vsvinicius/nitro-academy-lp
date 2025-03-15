@@ -1,6 +1,8 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 
 function TeenGuy() {
+  const t = useTranslations('TeenGuy');
   return (
     <div className="relative h-[46rem] flex items-center justify-center">
       <Image
@@ -14,11 +16,11 @@ function TeenGuy() {
       <div className="relative font-montserrat-regular font-bold leading-8">
         <div className="flex items-center">
           <Image src="arrow.svg" alt="Arrow right" width={28} height={28} />
-          <h1 className="text-[1.8rem]"> Transforme </h1>
+          <h1 className="text-[1.8rem]">{t('Transforme')}</h1>
         </div>
-        <h1 className="text-[1.8rem]"> tempo livre </h1>
+        <h1 className="text-[1.8rem]">{t('tempo livre')}</h1>
         <div className="flex">
-          <h1 className="text-[1.8rem]"> em talento </h1>
+          <h1 className="text-[1.8rem]">{t('em talento')}</h1>
           <Image
             src={"arrow.svg"}
             alt="Arrow right"

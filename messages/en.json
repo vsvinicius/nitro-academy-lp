@@ -1,5 +1,168 @@
 {
+  "TeenGuy":{
+    "Transforme":"Turn",
+    "tempo livre":"free time",
+    "em talento":"into talent"
+  },
   "Introduction":{
-    "title":"Nitro Academy is an online school for vocational initiation projects for teenagers aged 11 to 15 through practical and stimulating projects guided by experienced mentors."
+    "A Nitro Academy é uma escola online de projetos de iniciação vocacional para adolescentes entre 11 a 15 anos através de projetos práticos e estimulantes orientados por mentores experientes":"Nitro Academy is an online school for vocational initiation projects for teenagers aged 11 to 15 through practical and stimulating projects guided by experienced mentors"
+  },
+  "MiniUniversity":{
+    "Uma mini universidade":"A mini university",
+    "Escolha suas matérias a cada semestre":"Choose your subjects each semester",
+    "Aprenda o que realmente interessa":"Learn what really matters",
+    "Aulas 100% online, interativas e ao vivo":"100% online, interactive, and live classes"
+  },
+  "ChildGirl":{
+    "Mentores incríveis e metodologia baseada em projetos":"Incredible mentors and project-based methodology"
+  },
+  "HaveYouImagined":{
+    "Já imaginou criar sua própria fragrância natural ou fazer sua primeira venda na internet? Na Nitro Academy, a vocação nasce na prática": "Have you ever imagined creating your own natural fragrance or making your first online sale? At Nitro Academy, vocation is born through practice",
+    "Descubra quem você nasceu para ser!": "Uncover your true self!"
+  },
+  "OurApproach":{
+    "Nossa abordagem é centrada no aluno":"Our approach is student-centered",
+    "Com projetos práticos, aplicamos conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo":"Through practical projects, we apply knowledge to real-world challenges, such as creating a sustainable business or programming an educational game"
+  },
+  "TeenGirl":{
+    "Turmas pequenas, projetos divertidos e mentores que são referência":"Small groups, engaging projects, and expert mentors"
+  },
+ "Carousel":{
+    "Estagiando com uma Youtuber": "Interning with a YouTuber",
+    "Mergulhe no universo do YouTube e aprenda como transformar suas ideias em vídeos incríveis! Descubra como planejar, gravar e editar conteúdos envolventes, além de entender estratégias para crescer no digital No final, você publicará seu próprio vídeo sobre o uso do tempo dos adolescentes!": "Dive into the YouTube universe and learn how to turn your ideas into amazing videos! Discover how to plan, record, and edit engaging content, as well as understand strategies for growing digitally. In the end, you'll publish your own video about how teenagers use their time!",
+    "Aberto a todos": "Open to all",
+    "Projetos + Discussão": "Projects + Discussion",
+    "Aprender como construir uma identidade digital autêntica, além de desenvolver habilidades de criação de conteúdo digital, como roteiro, gravação, edição e publicação de vídeos": "Learn how to build an authentic digital identity, as well as develop digital content creation skills, such as scripting, recording, editing, and publishing videos",
+    "Celular com câmera ou computador com acesso a ferramentas básicas de edição": "Camera phone or computer with access to basic editing tools",
+    "Criar roteiros, gravar vídeos curtos, experimentar técnicas de edição e lançar um vídeo final no YouTube": "Create scripts, record short videos, experiment with editing techniques, and launch a final video on YouTube",
+    "Até 30 minutos semanais, como filmagens curtas e ajustes na edição": "Up to 30 minutes weekly, such as short filming and editing adjustments",
+    "Fazendo sua Primeira Venda Online":"Making Your First Online Sale",
+    "Já imaginou ter sua própria loja virtual e fazer suas primeiras vendas na internet? Nesse curso, você vai montar uma loja online experimental e aprender na prática como funciona o mundo das vendas online, desde a escolha dos produtos até o atendimento ao cliente, com a ajuda de um mentor que entende tudo de marketing digital":"Ever imagined having your own online store and making your first sales on the internet? In this course, you will set up an experimental online store and learn in practice how the world of online sales works, from choosing products to customer service, with the help of a mentor who understands everything about digital marketing",
+    "Projetos + Mentoria":"Projects + Mentoring",
+    "Compreender como funciona o processo completo de vendas online, desenvolvendo habilidades de empreendedorismo, marketing digital e comunicação":"Understand how the complete online sales process works, developing entrepreneurship, digital marketing, and communication skills",
+    "Nenhum — só vontade de colocar a mão na massa!":"None — just the desire to get your hands dirty!",
+    "Criar uma loja virtual experimental, definir produtos, montar estratégias de vendas e realizar vendas reais pela internet":"Create an experimental online store, define products, set up sales strategies, and make real sales over the internet",
+    "Até 60 minutos semanais, como pesquisas de mercado, planejamento de produtos e desenvolvimento da loja":"Up to 60 minutes weekly, such as market research, product planning, and store development",
+    "Criando Fragrâncias Naturais":"Creating Natural Fragrances",
+    "Que tal criar seus próprios perfumes naturais usando plantas que você pode encontrar na sua região? Nesse curso, você vai aprender com especialistas como extrair aromas das plantas, entender os efeitos terapêuticos dos cheiros e criar fragrâncias únicas que podem até ajudar no bem-estar":"How about creating your own natural perfumes using plants that you can find in your region? In this course, you will learn from experts how to extract aromas from plants, understand the therapeutic effects of scents, and create unique fragrances that can even help with well-being",
+    "Projetos + Pesquisa":"Projects + Research",
+    "Despertar a consciência ambiental ao explorar os aromas naturais, desenvolvendo habilidades científicas, criativas e de autocuidado":"Raise environmental awareness by exploring natural aromas, developing scientific, creative, and self-care skills",
+    "Nenhum — só curiosidade pelo mundo dos aromas!":"None — just curiosity about the world of aromas!",
+    "Criar fragrâncias naturais a partir de plantas da região, documentando o processo e os efeitos das composições":"Create natural fragrances from regional plants, documenting the process and the effects of the compositions",
+    "Até 30 minutos semanais, com pesquisas sobre plantas aromáticas e experimentações simples em casa":"Up to 30 minutes weekly, with research on aromatic plants and simple experiments at home",
+    "Criando um Roteiro Cinematográfico":"Creating a Cinematographic Script",
+    "Tem uma história incrível para contar? Que tal transformá-la em um roteiro de cinema? Aqui você vai aprender a criar histórias para filmes inspiradas em vivências suas e da sua comunidade, com a ajuda de profissionais do audiovisual para levar suas ideias do papel às telas":"Do you have an incredible story to tell? How about turning it into a movie script? Here you will learn to create stories for films inspired by your own and your community's experiences, with the help of audiovisual professionals to take your ideas from paper to the screen",
+    "Desenvolver o olhar crítico sobre a sociedade ao transformar histórias reais em narrativas cinematográficas, além de habilidades de storytelling e roteiro":"Develop a critical view of society by transforming real stories into cinematic narratives, as well as storytelling and scriptwriting skills",
+    "Nenhum — só vontade de contar histórias!":"None — just the desire to tell stories!",
+    "Criar um roteiro original inspirado em histórias reais, com possibilidade de adaptação para vídeos curtos ou outras mídias digitais":"Create an original script inspired by real stories, with the possibility of adapting it to short videos or other digital media",
+    "Até 30 minutos semanais, incluindo entrevistas, pesquisa e desenvolvimento do roteiro":"Up to 30 minutes weekly, including interviews, research, and script development",
+    "Abrindo Sua Própria Empresa":"Opening Your Own Company",
+    "Já imaginou ter seu próprio negócio antes dos 15 anos? Descubra como transformar suas ideias em uma pequena empresa! Da criação do conceito ao plano de vendas, você vai aprender a tirar seus sonhos do papel e dar os primeiros passos no mundo do empreendedorismo":"Ever imagined having your own business before the age of 15? Discover how to turn your ideas into a small business! From concept creation to sales plan, you'll learn to take your dreams off the paper and take the first steps in the world of entrepreneurship",
+    "Entender como criar, planejar e apresentar uma ideia de negócio, desenvolvendo habilidades de autonomia, criatividade e pensamento estratégico":"Understand how to create, plan, and present a business idea, developing autonomy, creativity, and strategic thinking skills",
+    "Nenhum — só vontade de criar algo incrível!":"None — just the desire to create something amazing!",
+    "Desenvolver uma ideia de negócio, criar um plano básico (nome, proposta, público-alvo, como vender), apresentar para a turma e montar uma pequena campanha para divulgar sua empresa":"Develop a business idea, create a basic plan (name, proposal, target audience, how to sell), present it to the class, and set up a small campaign to promote your company",
+    "Até 30 minutos semanais, como pesquisas de mercado, esboço de planos e criação de materiais simples para a empresa":"Up to 30 minutes weekly, such as market research, plan sketching, and creating simple materials for the company",
+    "Storytelling in English":"Storytelling in English",
+    "Você tem histórias incríveis para contar — por que não contá-las em inglês? Neste curso, você vai aprender a criar personagens, construir narrativas e dar vida às suas ideias em outro idioma Com uma professora americana, descubra como a língua inglesa pode ser uma ferramenta para expressar quem você é e imaginar novos mundos":"You have incredible stories to tell — why not tell them in English? In this course, you will learn to create characters, build narratives, and bring your ideas to life in another language. With an American teacher, discover how the English language can be a tool to express who you are and imagine new worlds",
+    "Intermediário (consegue se comunicar em inglês)":"Intermediate (able to communicate in English)",
+    "Projetos + Discussão + Prática de Conversação":"Projects + Discussion + Conversation Practice",
+    "Desenvolver a capacidade de escrever e contar histórias em inglês, ampliando o vocabulário e a confiança na comunicação":"Develop the ability to write and tell stories in English, expanding vocabulary and confidence in communication",
+    "Inglês básico + interesse em inglês":"Basic English + interest in English",
+    "Escrever pequenos contos, criar personagens e gravar uma apresentação final em vídeo contando sua história em inglês":"Write short stories, create characters, and record a final video presentation telling your story in English",
+    "Até 30 minutos semanais, como escrever trechos da história, pesquisar vocabulário ou praticar a fala em áudio":"Up to 30 minutes weekly, such as writing story excerpts, researching vocabulary, or practicing speaking in audio",
+    "Fotografando Sua Vida":"Photographing Your Life",
+    "Construa um diário visual por meio da fotografia! Aprenda a capturar momentos importantes do seu dia a dia e contar histórias emocionantes através de imagens Explore técnicas simples para criar um álbum cheio de significado":"Build a visual diary through photography! Learn to capture important moments of your daily life and tell exciting stories through images. Explore simple techniques to create an album full of meaning",
+    "Compreender a narrativa visual e desenvolver habilidades de observação criativa":"Understand visual narrative and develop creative observation skills",
+    "Celular com câmera ou câmera fotográfica":"Camera phone or camera",
+    "Tirar fotos diárias, criar uma exposição em grupo e discutir composições":"Take daily photos, create a group exhibition, and discuss compositions",
+    "Até 30 minutos semanais, como prática de fotografia":"Up to 30 minutes weekly, such as photography practice",
+    "Introdução à Astronomia":"Introduction to Astronomy",
+    "Explore o universo além da Terra! Conheça planetas, estrelas e buracos negros enquanto aprende a identificar constelações Simule eventos cósmicos, debata sobre vida alienígena e discuta descobertas como ondas gravitacionais":"Explore the universe beyond Earth! Learn about planets, stars, and black holes while learning to identify constellations. Simulate cosmic events, debate alien life, and discuss discoveries like gravitational waves",
+    "Iniciante":"Beginner",
+    "Palestra + Atividades Interativas":"Lecture + Interactive Activities",
+    "Compreender os conceitos básicos da astronomia e estimular a curiosidade sobre o espaço":"CUnderstand the basic concepts of astronomy and stimulate curiosity about space",
+    "Nenhum":"None",
+    "Construir um mapa estelar, simular órbitas planetárias e explorar aplicativos de astronomia":"Build a star map, simulate planetary orbits, and explore astronomy applications",
+    "Até 30 minutos por semana, como observação do céu ou pequenos resumos":"Up to 30 minutes per week, such as sky observation or short summaries",
+    "Produzindo Animações em 3D":"Producing 3D Animations",
+    "Usando o Plotagon, mergulhe na história e dê vida ao passado por meio da animação! Este curso ensina conceitos básicos de storytelling visual e animação, enquanto você explora momentos históricos de maneira criativa e interativa *”Criamos uma animação em 3D, o personagem vc que cria, vc pode até colocar sua voz no personagem, e cada um cria uma história (baseada no passado)”":"Using Plotagon, dive into history and bring the past to life through animation! This course teaches basic concepts of visual storytelling and animation, while you explore historical moments in a creative and interactive way. *“We create a 3D animation, you create the character, you can even put your voice in the character, and everyone creates a story (based on the past)”",
+    "Compreender momentos históricos e transformá-los em narrativas animadas que conectem educação e arte":"Understand historical moments and transform them into animated narratives that connect education and art",
+    "Aberto a todos os níveis":"Open to all levels",
+    "Projetos Práticos + Discussões + Estudo de Caso":"Practical Projects + Discussions + Case Study",
+    "Criar uma curta animação que represente um momento ou personagem histórico de forma criativa e envolvente":"Create a short animation that represents a historical moment or character in a creative and engaging way",
+    "Até 30 minutos semanais, como esboçar storyboards ou explorar softwares básicos de animação":"Up to 30 minutes weekly, such as sketching storyboards or exploring basic animation software",
+    "Arquitetura de Computadores":"Computer Architecture",
+    "Descubra como computadores funcionam desde o básico: como 0s e 1s e circuitos criam máquinas incríveis! Aprenda os fundamentos de hardware e software de forma prática, explorando os componentes de um computador":"Discover how computers work from the basics: how 0s and 1s and circuits create incredible machines! Learn the fundamentals of hardware and software in a practical way, exploring the components of a computer",
+    "Projetos + Resolução de Problemas":"Projects + Problem Solving",
+    "Compreender os fundamentos da arquitetura de computadores":"Understand the fundamentals of computer architecture",
+    "Montar e desmontar simulações de computadores e criar projetos simples":"Assemble and disassemble computer simulations and create simple projects",
+    "Até 30 minutos semanais, incluindo atividades práticas e pesquisas rápidas":"Up to 30 minutes weekly, including practical activities and quick research",
+    "Escolha um projeto":"Choose a project",
+    "Descrição do curso":"Course overview",
+    "Nível":"Level",
+    "Modelo de aula":"Class format",
+    "Objetivo":"Goal",
+    "Pré-requisitos":"Requirements",
+    "Projetos":"Projects",
+    "Lição de casa":"Homework"
+  },
+  "WhyChooseNitro":{
+    "Turmas reduzidas (máximo 10 alunos)":"Small groups (max 10 students)",
+    "Ensino personalizado":"Individualized instruction",
+    "Desenvolvimento de habilidades do século XXI":"Development of 21st-century skills",
+    "Flexibilidade de horários":"Flexible schedules",
+    "Professores de alto nível":"Highly qualified teachers",
+    "Uso produtivo do tempo livre":"Productive use of free time",
+    "Por que escolher a Nitro?":"Why choose Nitro?"
+  },
+  "Perks":{
+    "Flexibilidade":"Flexibility",
+    "Pagamento por matéria, horários adaptáveis e acesso nacional":"Payment per subject, adaptable schedules, and national access.",
+    "Metodologia Inovadora":"Innovative Methodology",
+    "Projetos estimulantes em áreas de interesse do aluno":"Stimulating projects in areas of student interest.",
+    "Foco no Futuro":"Future-focused",
+    "Preparação para vida profissional e autoconhecimento, sem competir com a escola regular":"Preparation for professional life and self-knowledge, without competing with regular school.",
+    "Evento Presencial":"In-Person Event",
+    "Semana intensiva anual para integração e networking familiar":"Annual intensive week for integration and family networking",
+    "Conteúdo Variado":"Diverse Content",
+    "Mais de 10 projetos para explorar":"Over 10 projects to explore."
+  },
+  "HowItWorks":{
+    "Se inscreva no processo seletivo":"Apply for the selection process.",
+    "Participe de uma aula experimental":"Participate in a trial class.",
+    "Receba a grade de projetos e seus horários":"Get the project grid and its schedule.",
+    "Escolha seu primeiro projeto e alavanque seu futuro":"Choose your first project and boost your future.",
+    "Como funciona?":"How it works?",
+    "Você só paga pelas matérias que escolher":"You only pay for the subjects you choose."
+  },
+  "ChildGuy":{
+    "+ Autonomia, criatividade e preparo para o futuro": "+ Autonomy, creativity, and future readiness"
+  },
+  "OurGoal":{
+    "Nosso objetivo é ajudar cada aluno a descobrir sua vocação real ainda jovem, poupando anos de indecisão e escolhas equivocadas": "Our goal is to help each student discover their true calling at a young age, saving years of indecision and misguided choices."
+  },
+  "Parents":{
+    "Sabemos que a adolescência é uma fase de escolhas Na Nitro, nossos filhos usam o tempo livre para explorar interesses, longe das distrações das redes sociais Oferecemos um ambiente seguro, com acompanhamentos e relatórios de progresso": "We know that adolescence is a phase of choices. At Nitro, our children use their free time to explore interests, away from the distractions of social media. We offer a safe environment with monitoring and progress reports."
+  },
+  "Faq":{
+    "Dúvidas?":"Do you have any questions?",
+    "O que é a Nitro Academy?": "What is Nitro Academy?",
+    "A Nitro Academy é uma escola online para alunos de 11 a 15 anos que desejam aprender além da escola tradicional Com aulas dinâmicas, grupos pequenos e uma abordagem baseada em projetos, nossos alunos desenvolvem criatividade, liderança, pensamento crítico e muito mais!": "Nitro Academy is an online school for students aged 11 to 15 who want to learn beyond traditional school. With dynamic classes, small groups, and a project-based approach, our students develop creativity, leadership, critical thinking, and much more!",
+    "Por que a Nitro é diferente?": "Why is Nitro different?",
+    "Turmas reduzidas, projetos práticos e uma abordagem moderna Aqui, você desenvolve habilidades que as escolas tradicionais não ensinam": "Small classes, practical projects, and a modern approach. Here, you develop skills that traditional schools don't teach.",
+    "Por que a Nitro é diferente? 2": "Why is Nitro different? 2",
+    "Mais autonomia, mais criatividade e mais preparo para o futuro": "More autonomy, more creativity, and more preparation for the future.",
+    "Quanto custa?": "How much does it cost?",
+    "380 reais por matéria, por mês": "380 reais per subject, per month.",
+    "Qual a metodologia da Nitro?": "What is Nitro's methodology?",
+    "Nossa abordagem é centrada no aluno Com projetos práticos, os adolescentes aplicam conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo Não ensinamos para provas – ensinamos para a vida": "Our approach is student-centered. With practical projects, teenagers apply knowledge to real-world challenges, such as creating a sustainable business or programming an educational game. We don't teach for tests – we teach for life.",
+    "Haverá Semana Intensiva Presencial?": "Will there be an In-Person Intensive Week?",
+    "Uma vez por ano, famílias de todo o Brasil se reúnem para uma semana de imersão! Palestras inspiradoras, workshops para pais e atividades colaborativas para os alunos É a chance de conectar-se com outras famílias que valorizam educação inovadora A participação é opcional": "Once a year, families from all over Brazil gather for an immersion week! Inspiring lectures, workshops for parents, and collaborative activities for students. It's a chance to connect with other families who value innovative education. Participation is optional.",
+    "Como saberei sobre o desenvolvimento que o meu filho está tendo na Nitro Academy?": "How will I know about my child's development at Nitro Academy?",
+    "Os pais receberão relatórios mensais sobre os projetos que o filho está desenvolvendo na Nitro e o seu progresso": "Parents will receive monthly reports on the projects their child is developing at Nitro and their progress.",
+    "É necessário a presença do pai durante as aulas?": "Is parental presence required during classes?",
+    "Não": "No",
+    "É possível a participação de crianças com necessidades neurológicas especiais?": "Is it possible for children with special neurological needs to participate?",
+    "Se os pais acreditam que o filho consiga participar de uma aula online concentrada, criar projetos ou resolver desafios, fique à vontade para inscrever o seu filho": "If parents believe their child can participate in a focused online class, create projects, or solve challenges, feel free to enroll your child."
   }
 }
