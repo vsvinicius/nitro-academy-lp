@@ -1,6 +1,8 @@
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 export default function TeenGirl() {
+  const t = useTranslations('TeenGirl');
   return (
     <div className="h-[50rem] flex justify-center items-center">
       <Image
@@ -12,7 +14,7 @@ export default function TeenGirl() {
         className="absolute w-full h-[50rem] object-cover brightness-75"
       />
       <h1 className="relative font-montserrat-regular text-4xl font-bold pl-16 pr-20 py-20 top-20">
-        Turmas pequenas, projetos divertidos e mentores que são referência.
+        {t('Turmas pequenas, projetos divertidos e mentores que são referência')}.
       </h1>
     </div>
   );

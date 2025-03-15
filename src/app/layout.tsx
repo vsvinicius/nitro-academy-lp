@@ -1,6 +1,8 @@
-import type { Metadata } from "next";
+import { PropsWithChildren } from "react";
 import localFont from "next/font/local";
+
 import "./globals.css";
+import { Metadata } from "next";
 
 const gilroyExtrabold = localFont({
   src: "./fonts/Gilroy-Extrabold.ttf",
@@ -37,27 +39,24 @@ export const metadata: Metadata = {
   description: "Nitro academy",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+export default function Layout({ children }: PropsWithChildren) {
+
   return (
-    <html lang="en">
+    <html>
       <body
         className={`
-          ${gilroyExtrabold.variable} 
-          ${helveticaNeue.variable} 
-          ${montserratBlack.variable} 
-          ${montserratLight.variable}
-          ${montserratRegular.variable}
+    ${gilroyExtrabold.variable} 
+    ${helveticaNeue.variable} 
+    ${montserratBlack.variable} 
+    ${montserratLight.variable}
+    ${montserratRegular.variable}
 
-          ${gilroyLight.variable}
-          antialiased
-          tracking-wider`}
+    ${gilroyLight.variable}
+    antialiased
+    tracking-wider`}
       >
         {children}
       </body>
     </html>
-  );
+  )
 }

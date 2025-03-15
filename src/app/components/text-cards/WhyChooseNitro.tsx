@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { Fragment } from "react";
 
@@ -11,10 +12,11 @@ const titles = [
 ];
 
 export default function WhyChooseNitro() {
+  const t = useTranslations('WhyChooseNitro');
   return (
     <div className="px-12 py-12">
       <h1 className="text-theme-orange font-gilroy-extrabold text-6xl pl-4 pr-6">
-        Por que escolher a Nitro?
+        {t('Por que escolher a Nitro?')}
       </h1>
       {titles.map((title) => (
         <Fragment key={title}>
@@ -26,7 +28,7 @@ export default function WhyChooseNitro() {
             className="pt-10"
           />
           <p className="font-montserrat-regular text-2xl pl-1 pr-5 pt-4">
-            {title}
+            {t(title)}
           </p>
         </Fragment>
       ))}

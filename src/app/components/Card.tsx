@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { useTranslations } from "next-intl";
 export interface CardProps {
   title: string;
   description: string;
@@ -12,6 +13,7 @@ export interface CardProps {
 
 
 export default function Card({ title, description, level, goal, homework, model, project, requirement }: CardProps) {
+  const t = useTranslations('Carousel');
   const sections = [
     {
       image: 'lightbulb.png',
@@ -58,16 +60,16 @@ export default function Card({ title, description, level, goal, homework, model,
   ]
   return (
     <div className="flex items-center justify-center flex-col p-10 gap-4 bg-[#EBEEEF] opacity-90 rounded-xl text-black">
-      <h1 className="font-gilroy-extrabold text-2xl py-3">{title}</h1>
+      <h1 className="font-gilroy-extrabold text-2xl py-3">{t(title)}</h1>
       {sections.map(({ alt, content, image, title }) => (
         <section className='w-full' key={title}>
           <div className='flex gap-2 justify-start items-center pb-3'>
             <Image src={image} alt={alt} width={24} height={24} />
             <h3 className="font-gilroy-extrabold text-md mt-2">
-              {title}
+              {t(title)}
             </h3>
           </div>
-          <p className="font-gilroy-light text-left">{content}</p>
+          <p className="font-gilroy-light text-left">{t(content)}</p>
         </section>
       ))}
     </div>

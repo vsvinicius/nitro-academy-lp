@@ -1,6 +1,8 @@
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 export default function HaveYouImagined() {
+  const t = useTranslations('HaveYouImagined');
   return (
     <div className="relative bg-blue-light rounded-t-2xl pt-6 pb-20 w-full shadow-[0px_-12px_0px_0px_#599fe9]">
       <div className="px-12 rounded-t-2xl">
@@ -12,10 +14,10 @@ export default function HaveYouImagined() {
           className="h-10 w-10"
         />
         <p className="font-montserrat-regular text-[1.6rem] pt-6">
-          Já imaginou criar sua própria fragrância natural ou fazer sua primeira venda na internet? Na Nitro Academy, a vocação nasce na prática.
+          {t('Já imaginou criar sua própria fragrância natural ou fazer sua primeira venda na internet? Na Nitro Academy, a vocação nasce na prática')}.
         </p>
         <p className="font-montserrat-regular text-[1.6rem] pt-6">
-          Descubra quem você nasceu para ser!
+          {t('Descubra quem você nasceu para ser!')}
         </p>
       </div>
     </div>

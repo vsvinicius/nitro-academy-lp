@@ -1,0 +1,168 @@
+{
+  "TeenGuy":{
+    "Transforme":"Transforme",
+    "tempo livre":"tempo livre",
+    "em talento":"em talento"
+  },
+  "Introduction":{
+    "A Nitro Academy é uma escola online de projetos de iniciação vocacional para adolescentes entre 11 a 15 anos através de projetos práticos e estimulantes orientados por mentores experientes":"A Nitro Academy é uma escola online de projetos de iniciação vocacional para adolescentes entre 11 a 15 anos através de projetos práticos e estimulantes orientados por mentores experientes"
+  },
+  "MiniUniversity":{
+    "Uma mini universidade":"Uma mini universidade",
+    "Escolha suas matérias a cada semestre":"Escolha suas matérias a cada semestre",
+    "Aprenda o que realmente interessa":"Aprenda o que realmente interessa",
+    "Aulas 100% online, interativas e ao vivo":"Aulas 100% online, interativas e ao vivo"
+  },
+  "ChildGirl":{
+    "Mentores incríveis e metodologia baseada em projetos":"Mentores incríveis e metodologia baseada em projetos"
+  },
+  "HaveYouImagined":{
+    "Já imaginou criar sua própria fragrância natural ou fazer sua primeira venda na internet? Na Nitro Academy, a vocação nasce na prática": "Já imaginou criar sua própria fragrância natural ou fazer sua primeira venda na internet? Na Nitro Academy, a vocação nasce na prática",
+    "Descubra quem você nasceu para ser!": "Descubra quem você nasceu para ser!"
+  },
+  "OurApproach":{
+    "Nossa abordagem é centrada no aluno":"Nossa abordagem é centrada no aluno",
+    "Com projetos práticos, aplicamos conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo":"Com projetos práticos, aplicamos conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo"
+  },
+  "TeenGirl":{
+    "Turmas pequenas, projetos divertidos e mentores que são referência":"Turmas pequenas, projetos divertidos e mentores que são referência"
+  },
+  "Carousel":{
+    "Estagiando com uma Youtuber": "Estagiando com uma Youtuber",
+    "Mergulhe no universo do YouTube e aprenda como transformar suas ideias em vídeos incríveis! Descubra como planejar, gravar e editar conteúdos envolventes, além de entender estratégias para crescer no digital No final, você publicará seu próprio vídeo sobre o uso do tempo dos adolescentes!": "Mergulhe no universo do YouTube e aprenda como transformar suas ideias em vídeos incríveis! Descubra como planejar, gravar e editar conteúdos envolventes, além de entender estratégias para crescer no digital. No final, você publicará seu próprio vídeo sobre o uso do tempo dos adolescentes!",
+    "Aberto a todos": "Aberto a todos",
+    "Projetos + Discussão": "Projetos + Discussão",
+    "Aprender como construir uma identidade digital autêntica, além de desenvolver habilidades de criação de conteúdo digital, como roteiro, gravação, edição e publicação de vídeos": "Aprender como construir uma identidade digital autêntica, além de desenvolver habilidades de criação de conteúdo digital, como roteiro, gravação, edição e publicação de vídeos",
+    "Celular com câmera ou computador com acesso a ferramentas básicas de edição": "Celular com câmera ou computador com acesso a ferramentas básicas de edição",
+    "Criar roteiros, gravar vídeos curtos, experimentar técnicas de edição e lançar um vídeo final no YouTube": "Criar roteiros, gravar vídeos curtos, experimentar técnicas de edição e lançar um vídeo final no YouTube",
+    "Até 30 minutos semanais, como filmagens curtas e ajustes na edição": "Até 30 minutos semanais, como filmagens curtas e ajustes na edição",
+    "Fazendo sua Primeira Venda Online":"Fazendo sua Primeira Venda Online",
+    "Já imaginou ter sua própria loja virtual e fazer suas primeiras vendas na internet? Nesse curso, você vai montar uma loja online experimental e aprender na prática como funciona o mundo das vendas online, desde a escolha dos produtos até o atendimento ao cliente, com a ajuda de um mentor que entende tudo de marketing digital":"Já imaginou ter sua própria loja virtual e fazer suas primeiras vendas na internet? Nesse curso, você vai montar uma loja online experimental e aprender na prática como funciona o mundo das vendas online, desde a escolha dos produtos até o atendimento ao cliente, com a ajuda de um mentor que entende tudo de marketing digital",
+    "Projetos + Mentoria":"Projetos + Mentoria",
+    "Compreender como funciona o processo completo de vendas online, desenvolvendo habilidades de empreendedorismo, marketing digital e comunicação":"Compreender como funciona o processo completo de vendas online, desenvolvendo habilidades de empreendedorismo, marketing digital e comunicação",
+    "Nenhum — só vontade de colocar a mão na massa!":"Nenhum — só vontade de colocar a mão na massa!",
+    "Criar uma loja virtual experimental, definir produtos, montar estratégias de vendas e realizar vendas reais pela internet":"Criar uma loja virtual experimental, definir produtos, montar estratégias de vendas e realizar vendas reais pela internet",
+    "Até 60 minutos semanais, como pesquisas de mercado, planejamento de produtos e desenvolvimento da loja":"Até 60 minutos semanais, como pesquisas de mercado, planejamento de produtos e desenvolvimento da loja",
+    "Criando Fragrâncias Naturais":"Criando Fragrâncias Naturais",
+    "Que tal criar seus próprios perfumes naturais usando plantas que você pode encontrar na sua região? Nesse curso, você vai aprender com especialistas como extrair aromas das plantas, entender os efeitos terapêuticos dos cheiros e criar fragrâncias únicas que podem até ajudar no bem-estar":"Que tal criar seus próprios perfumes naturais usando plantas que você pode encontrar na sua região? Nesse curso, você vai aprender com especialistas como extrair aromas das plantas, entender os efeitos terapêuticos dos cheiros e criar fragrâncias únicas que podem até ajudar no bem-estar",
+    "Projetos + Pesquisa":"Projetos + Pesquisa",
+    "Despertar a consciência ambiental ao explorar os aromas naturais, desenvolvendo habilidades científicas, criativas e de autocuidado":"Despertar a consciência ambiental ao explorar os aromas naturais, desenvolvendo habilidades científicas, criativas e de autocuidado",
+    "Nenhum — só curiosidade pelo mundo dos aromas!":"Nenhum — só curiosidade pelo mundo dos aromas!",
+    "Criar fragrâncias naturais a partir de plantas da região, documentando o processo e os efeitos das composições":"Criar fragrâncias naturais a partir de plantas da região, documentando o processo e os efeitos das composições",
+    "Até 30 minutos semanais, com pesquisas sobre plantas aromáticas e experimentações simples em casa":"Até 30 minutos semanais, com pesquisas sobre plantas aromáticas e experimentações simples em casa",
+    "Criando um Roteiro Cinematográfico":"Criando um Roteiro Cinematográfico",
+    "Tem uma história incrível para contar? Que tal transformá-la em um roteiro de cinema? Aqui você vai aprender a criar histórias para filmes inspiradas em vivências suas e da sua comunidade, com a ajuda de profissionais do audiovisual para levar suas ideias do papel às telas":"Tem uma história incrível para contar? Que tal transformá-la em um roteiro de cinema? Aqui você vai aprender a criar histórias para filmes inspiradas em vivências suas e da sua comunidade, com a ajuda de profissionais do audiovisual para levar suas ideias do papel às telas",
+    "Desenvolver o olhar crítico sobre a sociedade ao transformar histórias reais em narrativas cinematográficas, além de habilidades de storytelling e roteiro":"Desenvolver o olhar crítico sobre a sociedade ao transformar histórias reais em narrativas cinematográficas, além de habilidades de storytelling e roteiro",
+    "Nenhum — só vontade de contar histórias!":"Nenhum — só vontade de contar histórias!",
+    "Criar um roteiro original inspirado em histórias reais, com possibilidade de adaptação para vídeos curtos ou outras mídias digitais":"Criar um roteiro original inspirado em histórias reais, com possibilidade de adaptação para vídeos curtos ou outras mídias digitais",
+    "Até 30 minutos semanais, incluindo entrevistas, pesquisa e desenvolvimento do roteiro":"Até 30 minutos semanais, incluindo entrevistas, pesquisa e desenvolvimento do roteiro",
+    "Abrindo Sua Própria Empresa":"Abrindo Sua Própria Empresa",
+    "Já imaginou ter seu próprio negócio antes dos 15 anos? Descubra como transformar suas ideias em uma pequena empresa! Da criação do conceito ao plano de vendas, você vai aprender a tirar seus sonhos do papel e dar os primeiros passos no mundo do empreendedorismo":"Já imaginou ter seu próprio negócio antes dos 15 anos? Descubra como transformar suas ideias em uma pequena empresa! Da criação do conceito ao plano de vendas, você vai aprender a tirar seus sonhos do papel e dar os primeiros passos no mundo do empreendedorismo",
+    "Entender como criar, planejar e apresentar uma ideia de negócio, desenvolvendo habilidades de autonomia, criatividade e pensamento estratégico":"Entender como criar, planejar e apresentar uma ideia de negócio, desenvolvendo habilidades de autonomia, criatividade e pensamento estratégico",
+    "Nenhum — só vontade de criar algo incrível!":"Nenhum — só vontade de criar algo incrível!",
+    "Desenvolver uma ideia de negócio, criar um plano básico (nome, proposta, público-alvo, como vender), apresentar para a turma e montar uma pequena campanha para divulgar sua empresa":"Desenvolver uma ideia de negócio, criar um plano básico (nome, proposta, público-alvo, como vender), apresentar para a turma e montar uma pequena campanha para divulgar sua empresa",
+    "Até 30 minutos semanais, como pesquisas de mercado, esboço de planos e criação de materiais simples para a empresa":"Até 30 minutos semanais, como pesquisas de mercado, esboço de planos e criação de materiais simples para a empresa",
+    "Storytelling in English":"Storytelling in English",
+    "Você tem histórias incríveis para contar — por que não contá-las em inglês? Neste curso, você vai aprender a criar personagens, construir narrativas e dar vida às suas ideias em outro idioma Com uma professora americana, descubra como a língua inglesa pode ser uma ferramenta para expressar quem você é e imaginar novos mundos":"Você tem histórias incríveis para contar — por que não contá-las em inglês? Neste curso, você vai aprender a criar personagens, construir narrativas e dar vida às suas ideias em outro idioma. Com uma professora americana, descubra como a língua inglesa pode ser uma ferramenta para expressar quem você é e imaginar novos mundos",
+    "Intermediário (consegue se comunicar em inglês)":"Intermediário (consegue se comunicar em inglês)",
+    "Projetos + Discussão + Prática de Conversação":"Projetos + Discussão + Prática de Conversação",
+    "Desenvolver a capacidade de escrever e contar histórias em inglês, ampliando o vocabulário e a confiança na comunicação":"Desenvolver a capacidade de escrever e contar histórias em inglês, ampliando o vocabulário e a confiança na comunicação",
+    "Inglês básico + interesse em inglês":"Inglês básico + interesse em inglês",
+    "Escrever pequenos contos, criar personagens e gravar uma apresentação final em vídeo contando sua história em inglês":"Escrever pequenos contos, criar personagens e gravar uma apresentação final em vídeo contando sua história em inglês",
+    "Até 30 minutos semanais, como escrever trechos da história, pesquisar vocabulário ou praticar a fala em áudio":"Até 30 minutos semanais, como escrever trechos da história, pesquisar vocabulário ou praticar a fala em áudio",
+    "Fotografando Sua Vida":"Fotografando Sua Vida",
+    "Construa um diário visual por meio da fotografia! Aprenda a capturar momentos importantes do seu dia a dia e contar histórias emocionantes através de imagens Explore técnicas simples para criar um álbum cheio de significado":"Construa um diário visual por meio da fotografia! Aprenda a capturar momentos importantes do seu dia a dia e contar histórias emocionantes através de imagens. Explore técnicas simples para criar um álbum cheio de significado",
+    "Compreender a narrativa visual e desenvolver habilidades de observação criativa":"Compreender a narrativa visual e desenvolver habilidades de observação criativa",
+    "Celular com câmera ou câmera fotográfica":"Celular com câmera ou câmera fotográfica",
+    "Tirar fotos diárias, criar uma exposição em grupo e discutir composições":"Tirar fotos diárias, criar uma exposição em grupo e discutir composições",
+    "Até 30 minutos semanais, como prática de fotografia":"Até 30 minutos semanais, como prática de fotografia",
+    "Introdução à Astronomia":"Introdução à Astronomia",
+    "Explore o universo além da Terra! Conheça planetas, estrelas e buracos negros enquanto aprende a identificar constelações Simule eventos cósmicos, debata sobre vida alienígena e discuta descobertas como ondas gravitacionais":"Explore o universo além da Terra! Conheça planetas, estrelas e buracos negros enquanto aprende a identificar constelações Simule eventos cósmicos, debata sobre vida alienígena e discuta descobertas como ondas gravitacionais. Simule eventos cósmicos, debata sobre vida alienígena e discuta descobertas como ondas gravitacionais",
+    "Iniciante":"Iniciante",
+    "Palestra + Atividades Interativas":"Palestra + Atividades Interativas",
+    "Compreender os conceitos básicos da astronomia e estimular a curiosidade sobre o espaço":"Compreender os conceitos básicos da astronomia e estimular a curiosidade sobre o espaço",
+    "Nenhum":"Nenhum",
+    "Construir um mapa estelar, simular órbitas planetárias e explorar aplicativos de astronomia":"Construir um mapa estelar, simular órbitas planetárias e explorar aplicativos de astronomia",
+    "Até 30 minutos por semana, como observação do céu ou pequenos resumos":"Até 30 minutos por semana, como observação do céu ou pequenos resumos",
+    "Produzindo Animações em 3D":"Produzindo Animações em 3D",
+    "Usando o Plotagon, mergulhe na história e dê vida ao passado por meio da animação! Este curso ensina conceitos básicos de storytelling visual e animação, enquanto você explora momentos históricos de maneira criativa e interativa *”Criamos uma animação em 3D, o personagem vc que cria, vc pode até colocar sua voz no personagem, e cada um cria uma história (baseada no passado)”":"Usando o Plotagon, mergulhe na história e dê vida ao passado por meio da animação! Este curso ensina conceitos básicos de storytelling visual e animação, enquanto você explora momentos históricos de maneira criativa e interativa. *”Criamos uma animação em 3D, o personagem vc que cria, vc pode até colocar sua voz no personagem, e cada um cria uma história (baseada no passado)”",
+    "Compreender momentos históricos e transformá-los em narrativas animadas que conectem educação e arte":"Compreender momentos históricos e transformá-los em narrativas animadas que conectem educação e arte",
+    "Aberto a todos os níveis":"Aberto a todos os níveis",
+    "Projetos Práticos + Discussões + Estudo de Caso":"Projetos Práticos + Discussões + Estudo de Caso",
+    "Criar uma curta animação que represente um momento ou personagem histórico de forma criativa e envolvente":"Criar uma curta animação que represente um momento ou personagem histórico de forma criativa e envolvente",
+    "Até 30 minutos semanais, como esboçar storyboards ou explorar softwares básicos de animação":"Até 30 minutos semanais, como esboçar storyboards ou explorar softwares básicos de animação",
+    "Arquitetura de Computadores":"Arquitetura de Computadores",
+    "Descubra como computadores funcionam desde o básico: como 0s e 1s e circuitos criam máquinas incríveis! Aprenda os fundamentos de hardware e software de forma prática, explorando os componentes de um computador":"Descubra como computadores funcionam desde o básico: como 0s e 1s e circuitos criam máquinas incríveis! Aprenda os fundamentos de hardware e software de forma prática, explorando os componentes de um computador",
+    "Projetos + Resolução de Problemas":"Projetos + Resolução de Problemas",
+    "Compreender os fundamentos da arquitetura de computadores":"Compreender os fundamentos da arquitetura de computadores",
+    "Montar e desmontar simulações de computadores e criar projetos simples":"Montar e desmontar simulações de computadores e criar projetos simples",
+    "Até 30 minutos semanais, incluindo atividades práticas e pesquisas rápidas":"Até 30 minutos semanais, incluindo atividades práticas e pesquisas rápidas",
+    "Escolha um projeto":"Escolha um projeto",
+    "Descrição do curso":"Descrição do curso",
+    "Nível":"Nível",
+    "Modelo de aula":"Modelo de aula",
+    "Objetivo":"Objetivo",
+    "Pré-requisitos":"Pré-requisitos",
+    "Projetos":"Projetos",
+    "Lição de casa":"Lição de casa"
+  },
+  "WhyChooseNitro":{
+    "Turmas reduzidas (máximo 10 alunos)":"Turmas reduzidas (máximo 10 alunos)",
+    "Ensino personalizado":"Ensino personalizado",
+    "Desenvolvimento de habilidades do século XXI":"Desenvolvimento de habilidades do século XXI",
+    "Flexibilidade de horários":"Flexibilidade de horários",
+    "Professores de alto nível":"Professores de alto nível",
+    "Uso produtivo do tempo livre":"Uso produtivo do tempo livre",
+    "Por que escolher a Nitro?":"Por que escolher a Nitro?"
+  },
+  "Perks":{
+    "Flexibilidade":"Flexibilidade",
+    "Pagamento por matéria, horários adaptáveis e acesso nacional":"Pagamento por matéria, horários adaptáveis e acesso nacional.",
+    "Metodologia Inovadora":"Metodologia Inovadora",
+    "Projetos estimulantes em áreas de interesse do aluno":"Projetos estimulantes em áreas de interesse do aluno.",
+    "Foco no Futuro":"Foco no Futuro",
+    "Preparação para vida profissional e autoconhecimento, sem competir com a escola regular":"Preparação para vida profissional e autoconhecimento, sem competir com a escola regular.",
+    "Evento Presencial":"Evento Presencial",
+    "Semana intensiva anual para integração e networking familiar":"Semana intensiva anual para integração e networking familiar",
+    "Conteúdo Variado":"Conteúdo Variado",
+    "Mais de 10 projetos para explorar":"Mais de 10 projetos para explorar."
+  },
+  "HowItWorks":{
+    "Se inscreva no processo seletivo":"Se inscreva no processo seletivo.",
+    "Participe de uma aula experimental":"Participe de uma aula experimental.",
+    "Receba a grade de projetos e seus horários":"Receba a grade de projetos e seus horários.",
+    "Escolha seu primeiro projeto e alavanque seu futuro":"Escolha seu primeiro projeto e alavanque seu futuro.",
+    "Como funciona?":"Como funciona?",
+    "Você só paga pelas matérias que escolher":"Você só paga pelas matérias que escolher"
+  },
+  "ChildGuy":{
+    "+ Autonomia, criatividade e preparo para o futuro":"+ Autonomia, criatividade e preparo para o futuro"
+  },
+  "OurGoal":{
+    "Nosso objetivo é ajudar cada aluno a descobrir sua vocação real ainda jovem, poupando anos de indecisão e escolhas equivocadas":"Nosso objetivo é ajudar cada aluno a descobrir sua vocação real ainda jovem, poupando anos de indecisão e escolhas equivocadas."
+  },
+  "Parents":{
+    "Sabemos que a adolescência é uma fase de escolhas Na Nitro, nossos filhos usam o tempo livre para explorar interesses, longe das distrações das redes sociais Oferecemos um ambiente seguro, com acompanhamentos e relatórios de progresso":"Sabemos que a adolescência é uma fase de escolhas. Na Nitro, nossos filhos usam o tempo livre para explorar interesses, longe das distrações das redes sociais. Oferecemos um ambiente seguro, com acompanhamentos e relatórios de progresso."
+  },
+  "Faq":{
+    "Dúvidas?":"Dúvidas?",
+    "O que é a Nitro Academy?": "O que é a Nitro Academy?",
+    "A Nitro Academy é uma escola online para alunos de 11 a 15 anos que desejam aprender além da escola tradicional Com aulas dinâmicas, grupos pequenos e uma abordagem baseada em projetos, nossos alunos desenvolvem criatividade, liderança, pensamento crítico e muito mais!": "A Nitro Academy é uma escola online para alunos de 11 a 15 anos que desejam aprender além da escola tradicional. Com aulas dinâmicas, grupos pequenos e uma abordagem baseada em projetos, nossos alunos desenvolvem criatividade, liderança, pensamento crítico e muito mais!",
+    "Por que a Nitro é diferente?": "Por que a Nitro é diferente?",
+    "Turmas reduzidas, projetos práticos e uma abordagem moderna Aqui, você desenvolve habilidades que as escolas tradicionais não ensinam": "Turmas reduzidas, projetos práticos e uma abordagem moderna. Aqui, você desenvolve habilidades que as escolas tradicionais não ensinam",
+    "Por que a Nitro é diferente? 2": "Por que a Nitro é diferente? 2",
+    "Mais autonomia, mais criatividade e mais preparo para o futuro": "Mais autonomia, mais criatividade e mais preparo para o futuro",
+    "Quanto custa?": "Quanto custa?",
+    "380 reais por matéria, por mês": "380 reais por matéria, por mês.",
+    "Qual a metodologia da Nitro?": "Qual a metodologia da Nitro?",
+    "Nossa abordagem é centrada no aluno Com projetos práticos, os adolescentes aplicam conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo Não ensinamos para provas – ensinamos para a vida": "Nossa abordagem é centrada no aluno. Com projetos práticos, os adolescentes aplicam conhecimentos em desafios reais, como criar um negócio sustentável ou programar um jogo educativo. Não ensinamos para provas – ensinamos para a vida",
+    "Haverá Semana Intensiva Presencial?": "Haverá Semana Intensiva Presencial?",
+    "Uma vez por ano, famílias de todo o Brasil se reúnem para uma semana de imersão! Palestras inspiradoras, workshops para pais e atividades colaborativas para os alunos É a chance de conectar-se com outras famílias que valorizam educação inovadora A participação é opcional": "Uma vez por ano, famílias de todo o Brasil se reúnem para uma semana de imersão! Palestras inspiradoras, workshops para pais e atividades colaborativas para os alunos. É a chance de conectar-se com outras famílias que valorizam educação inovadora. A participação é opcional.",
+    "Como saberei sobre o desenvolvimento que o meu filho está tendo na Nitro Academy?": "Como saberei sobre o desenvolvimento que o meu filho está tendo na Nitro Academy?",
+    "Os pais receberão relatórios mensais sobre os projetos que o filho está desenvolvendo na Nitro e o seu progresso": "Os pais receberão relatórios mensais sobre os projetos que o filho está desenvolvendo na Nitro e o seu progresso.",
+    "É necessário a presença do pai durante as aulas?": "É necessário a presença do pai durante as aulas?",
+    "Não": "Não",
+    "É possível a participação de crianças com necessidades neurológicas especiais?": "É possível a participação de crianças com necessidades neurológicas especiais?",
+    "Se os pais acreditam que o filho consiga participar de uma aula online concentrada, criar projetos ou resolver desafios, fique à vontade para inscrever o seu filho": "Se os pais acreditam que o filho consiga participar de uma aula online concentrada, criar projetos ou resolver desafios, fique à vontade para inscrever o seu filho."
+  }
+}
