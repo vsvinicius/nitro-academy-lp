@@ -19,20 +19,20 @@ export default function LocaleSwitch() {
 
   return (
     <Select onValueChange={onChange} defaultValue={path}>
-      <SelectTrigger className="w-20 md:w-32">
+      <SelectTrigger className="w-full">
         <SelectValue placeholder={languages[path as keyof typeof languages]} />
       </SelectTrigger>
       <SelectContent>
         <SelectItem value="pt">
           <div className="flex gap-2 items-center">
             <Image src="brasil-flag.png" alt="bandeira do brasil" width={18} height={10} className="w-8 h-8" />
-            <span className="hidden md:inline">pt-BR</span>
+            <span>pt-BR</span>
           </div>
         </SelectItem>
         <SelectItem value="en">
           <div className="flex gap-2 items-center">
             <Image src="usa-flag.png" alt="bandeira dos estados unidos" width={18} height={10} className="w-8 h-8" />
-            <span className="hidden md:inline">en-US</span>
+            <span>en-US</span>
           </div>
         </SelectItem>
       </SelectContent>
