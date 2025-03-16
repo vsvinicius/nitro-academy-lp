@@ -67,7 +67,7 @@ export default function Faq() {
       </Accordion>
       <div className="flex w-full items-center justify-center pt-14">
         <Link href="https://escola.nitro.academy">
-          <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">Saiba mais</Button>
+          <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">{t('Saiba mais')}</Button>
         </Link>
       </div>
     </div>

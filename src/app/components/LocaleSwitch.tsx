@@ -11,7 +11,7 @@ const languages = {
 
 export default function LocaleSwitch() {
   const router = useRouter();
-  const [_, path] = usePathname().split('/');
+  const [, path] = usePathname().split('/');
 
   function onChange(value: string) {
     router.replace('/' + value)
