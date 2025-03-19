@@ -24,7 +24,6 @@ export default function Home({ params }: { params: { locale: string } }) {
   setRequestLocale(params.locale);
   return (
     <div className="overflow-x-hidden">
-      <Script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=14c243f1-7516-4bf0-bb6f-b40034ac1926" />
       <Header />
       <TeenGuy />
       <Introduction />
