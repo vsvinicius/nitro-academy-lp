@@ -1,5 +1,4 @@
 import { setRequestLocale } from "next-intl/server";
-import Script from "next/script";
 
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
