@@ -3,16 +3,10 @@ import { useTranslations } from "next-intl";
 export interface CardProps {
   title: string;
   description: string;
-  level: string;
-  model: string;
-  goal: string;
-  requirement: string;
-  project: string;
-  homework: string;
 }
 
 
-export default function Card({ title, description, level, goal, homework, model, project, requirement }: CardProps) {
+export default function Card({ title, description }: CardProps) {
   const t = useTranslations('Carousel');
   const sections = [
     {
@@ -20,43 +14,7 @@ export default function Card({ title, description, level, goal, homework, model,
       alt: 'Lâmpada',
       title: 'Descrição do curso',
       content: description
-    },
-    {
-      image: 'growth.png',
-      alt: 'Gráfico',
-      title: 'Nível',
-      content: level
-    },
-    {
-      image: 'laptop.png',
-      alt: 'Notebook',
-      title: 'Modelo de aula',
-      content: model
-    },
-    {
-      image: 'goal.png',
-      alt: 'Alvo',
-      title: 'Objetivo',
-      content: goal
-    },
-    {
-      image: 'pin.png',
-      alt: 'Alfinete',
-      title: 'Pré-requisitos',
-      content: requirement
-    },
-    {
-      image: 'rocket.png',
-      alt: 'Foguete',
-      title: 'Projetos',
-      content: project
-    },
-    {
-      image: 'books.png',
-      alt: 'Livros',
-      title: 'Lição de casa',
-      content: homework
-    },
+    }
   ]
   return (
     <div className="flex items-center justify-center flex-col p-10 gap-4 bg-[#EBEEEF] opacity-90 rounded-xl text-black">
