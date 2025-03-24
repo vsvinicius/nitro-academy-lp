@@ -30,6 +30,7 @@ export default function Card({ title, description }: CardProps) {
           <p className="font-gilroy-light text-left">{t(content)}</p>
         </section>
       ))}
+
     </div>
   )
 }
