@@ -51,7 +51,7 @@ export default function Carousel() {
 
   return (
     <div className="flex flex-col items-center bg-theme-orange py-10 shadow-[inset_0px_-12px_0px_0px_#19184b] rounded-b-2xl">
-      <h1 className="font-gilroy-extrabold text-4xl py-10 sm:text-6xl">
+      <h1 className="py-10 text-4xl font-gilroy-extrabold sm:text-6xl">
         {t('Escolha um projeto')}
       </h1>
       <CdnCarousel opts={{
@@ -72,8 +72,8 @@ export default function Carousel() {
         <CarouselPrevious />
         <CarouselNext />
       </CdnCarousel>
-      <div className="flex w-full items-center justify-center pt-14">
-        <Link href="https://escola.nitro.academy">
+      <div className="flex items-center justify-center w-full pt-14">
+        <Link href="https://wa.link/t0efem">
           <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">{t('Saiba mais')}</Button>
         </Link>
       </div>
