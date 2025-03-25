@@ -8,6 +8,8 @@ import {
 
 import Card, { CardProps } from "@/components/Card";
 import { useTranslations } from "next-intl";
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 const cardsContent: CardProps[] = [
   {
@@ -70,6 +72,11 @@ export default function Carousel() {
         <CarouselPrevious />
         <CarouselNext />
       </CdnCarousel>
+      <div className="flex w-full items-center justify-center pt-14">
+        <Link href="https://escola.nitro.academy">
+          <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">{t('Saiba mais')}</Button>
+        </Link>
+      </div>
     </div>
   )
 }
