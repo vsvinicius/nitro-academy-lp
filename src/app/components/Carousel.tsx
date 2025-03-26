@@ -93,7 +93,7 @@ export default function Carousel() {
         <CarouselNext />
       </CdnCarousel>
       <div className="flex items-center justify-center w-full pt-14">
-        <Link href="https://wa.link/t0efem">
+        <Link href="https://wa.me/5511975809082?text=Visitei%20o%20site%20da%20Nitro%20Academy%20e%20queria%20saber%20mais%21">
           <Button className="rounded-xl bg-background text-lg font-bold py-8 px-12 hover:bg-[#0c0c25] transition-colors duration-200">{t('Saiba mais')}</Button>
         </Link>
       </div>
